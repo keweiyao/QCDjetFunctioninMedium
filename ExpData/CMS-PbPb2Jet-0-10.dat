@@ -1,0 +1,19 @@
+#: table_doi: 10.17182/hepdata.93881.v1/t10											
+#: name: Figure 7-3											
+#: description: The RAA for jets with |eta jet| < 2.0 as a function of jet PT for R = 0.4 and various centrality classes.											
+#: data_file: Table7-3.yaml											
+#: keyword cmenergies: 5020											
+#: keyword reactions: P P --> JET X | Pb Pb --> JET X											
+#: keyword observables: RAA											
+#: ABS(ETA)			0.0-2.0								
+#: RE			PB PB --> JET X	 P P --> JET X							
+#: SQRT(S)/NUCLEON [GeV]			5020								
+#: CENTRALITY [pct]			0-10								
+#: R			0.4								
+#PT [GEV]	PT [GEV] LOW	PT [GEV] HIGH	RAA	stat +	stat -	sys +	sys -	TAA +	TAA -	lumi +	lumi -
+#225	200	250	-	0	0	0	0	0	0	0	0
+#275	250	300	-	0	0	0	0	0	0	0	0
+#350	300	400	-	0	0	0	0	0	0	0	0
+450	400	500	0.704	0.037	-0.037	0.03	-0.03	0.071	-0.071	0.016	-0.016
+750	500	1000	0.742	0.074	-0.074	0.032	-0.032	0.075	-0.075	0.017	-0.017
+
